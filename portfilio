@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Portfolio </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<!-- Header Section -->
+	<header>
+		<h1>Rohitha</h1>
+		<nav>
+			<ul>
+				<li><a href="#about">About</a></li>
+				<li><a href="#projects">Projects</a></li>
+				<li><a href="#contact">Contact</a></li>
+</ul>
+		</nav>
+	</header>
+
+	<!-- About Section -->
+	<section id="about">
+		<h2>About Me</h2>
+		<p>Iam Rohitha.Iam Studying final year of my B.Tech</p>
+	</section>
+
+	<!-- Projects Section -->
+	<section id="projects">
+		<h2>My Projects</h2>
+            <p>Smart Irrigation System</p>
+		
+	</section>
+<!-- Contact Section -->
+	<section id="contact">
+		<h2>Contact Me</h2>
+		<p>Email: rohitharamapulaparthi@gmail.com</p>
+		
+	</section>
+
+	
+	<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
